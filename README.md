@@ -3,7 +3,7 @@
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ***
-![Lorem Picsum Gorsel](https://github.com/BeyzaKusdil/kodluyoruzilkrepo/blob/main/Ekran%20Resmi%202024-01-23%2018.10.24.png)
+![Lorem Picsum Gorsel](https://github.com/BeyzaKusdil/kodluyoruzilkrepo/blob/main/repo.png)
 
 ## Installation
 
